@@ -6,7 +6,7 @@
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
-## This repo contains all implementations and results for the final project of Deep Learning course (AIT33001 37*)!
+## This repo contains all implementations and results for the final project of Deep Learning course (AIT3001 37*)!
 
 ## Folder Structure
 The repo contains 4 big folders as four model we developed, include all information about implementation and results of 4 differents models. Each big folder contains 2 subfolders as "notebooks" and "logs", where the codes and figures correspond to the big folder's model. 
